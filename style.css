@@ -1,0 +1,15 @@
+table {
+border: 1px;
+}
+    
+th{
+
+
+    color: yellowgreen;
+    border-color: rgb(72, 72, 6);
+}
+tr{
+    color: red;
+    border-style: solid;
+    border-color: black;
+}
